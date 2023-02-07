@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\Aluno\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.AssemblyReference.cache
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.SuggestedBindingRedirects.cache
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+E:\ \TUDO\ETEC\PA-DS\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
